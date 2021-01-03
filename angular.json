@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "ng-heroes"
+  "defaultProject": "ng-heroes",
+  "cli": {
+    "analytics": false
+  }
 }
